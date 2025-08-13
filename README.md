@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Diogo</h1>
+<h1 align="center">Diogo Salmazo Lemes</h1>
 <h3 align="center">Desenvolvedor front-end júnior</h3>
 
 - 🌱 Estou aprendendo **React, Angular, Vue, Dotnet**
