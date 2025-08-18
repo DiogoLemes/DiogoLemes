@@ -1,7 +1,9 @@
 <h1 align="center">Diogo Salmazo Lemes</h1>
-<h3 align="center">Desenvolvedor front-end júnior</h3>
+<h3 align="center">Desenvolvedor com foco em front-end</h3>
 
-- 🌱 Estou aprendendo **React, Angular, Vue, Dotnet**
+<h3 align="center">Estudante de Ciências da Computação na UNESP </h3>
+
+- 🌱 Estou aprendendo **React, Angular e Vue**
 
 - 📫 Como me contatar **diogo.s.lemes@unesp.br**
 
