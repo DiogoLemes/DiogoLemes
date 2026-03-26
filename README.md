@@ -3,7 +3,7 @@
 
 <h3 align="center">Estudante de Ciências da Computação na UNESP </h3>
 
-- 🌱 Estou aprendendo **React, Angular e Vue**
+- 🌱 Estou aprendendo **React, TypeScript, Angular e Vue**
 
 - 📫 Como me contatar **diogo.s.lemes@unesp.br**
 
